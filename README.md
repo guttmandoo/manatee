@@ -1,4 +1,4 @@
 # manatee
 Manatees are cool
 
-So cool
+One day I will swim with them
